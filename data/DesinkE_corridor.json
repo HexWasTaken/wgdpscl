@@ -1,0 +1,26 @@
+{
+	"id": 2054,
+	"name": "DesinkE corridor",
+	"author": "Kubix",
+	"creators": [
+		"Kubix"
+	],
+	"verifier": "Kubix",
+	"verification": "https://youtu.be/l1Q8g-Uo5sU",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Skoe",
+			"link": "",
+			"percent": 100,
+			"hz": 999
+		},
+		{
+			"user": "Furrious",
+			"link": "https://www.youtube.com/watch?v=25cFLgV-KVg&ab_channel=Furrious%5BGD%5D",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}
