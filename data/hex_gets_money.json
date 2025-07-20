@@ -1,0 +1,26 @@
+{
+	"id": 2123,
+	"name": "hex gets money",
+	"author": "Blam",
+	"creators": [
+		"Blam"
+	],
+	"verifier": "Blam",
+	"verification": "https://youtu.be/NveUaw6f2MI?si=sS2ni__FARPRSJDm",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+    {
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		}
+	]
+}

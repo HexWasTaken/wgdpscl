@@ -1,0 +1,26 @@
+{
+	"id": 384,
+	"name": "nhelv",
+	"author": "Blam",
+	"creators": [
+		"Blam"
+	],
+	"verifier": "Blam",
+	"verification": "",
+	"percentToQualify": 71,
+	"password": "-",
+	"records": [
+		{
+			"user": "ItzPickles",
+			"link": "https://youtu.be/QwkvhKZ4Rko",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "swifti",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

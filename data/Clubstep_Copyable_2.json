@@ -1,0 +1,20 @@
+{
+	"id": 2058,
+	"name": "Clubstep Copyable 2",
+	"author": "Kubix",
+	"creators": [
+		"Skoe"
+	],
+	"verifier": "Skoe",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

@@ -1,0 +1,26 @@
+{
+	"id": 2059,
+	"name": "FAIRY CHALLENGE HELL",
+	"author": "Kubix",
+	"creators": [
+		"Kubix"
+	],
+	"verifier": "Kubix",
+	"verification": "https://youtu.be/uIPN7D9Kf0E",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "Xan",
+			"link": "https://youtu.be/JxUbbKycO4o?si=07QfCYfsioQZVlGY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

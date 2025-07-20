@@ -1,0 +1,62 @@
+{
+	"id": 1898,
+	"name": "Kubix has a CESAR",
+	"author": "Shib",
+	"creators": [
+		"Shib"
+	],
+	"verifier": "Shib",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Skoe",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Furrious",
+			"link": "https://www.youtube.com/watch?v=25cFLgV-KVg&ab_channel=Furrious%5BGD%5D",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Kubix",
+			"link": "",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Random",
+			"link": "https://www.youtube.com/watch?v=poYyDxmjYKo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Xan",
+			"link": "https://youtu.be/RtI3zbgnELg?si=xIsZdIX3ZK9kemJN",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Mathey",
+			"link": "https://youtu.be/0qqiihRX01Y?si=CvOmv98gqJ3wvUfO",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

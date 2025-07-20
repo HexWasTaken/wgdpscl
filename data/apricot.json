@@ -1,0 +1,20 @@
+{
+	"id": 2138,
+	"name": "apricot",
+	"author": "Xan",
+	"creators": [
+		"Xan"
+	],
+	"verifier": "Xan",
+	"verification": "https://youtu.be/mpk4SoImlYk?si=yQMqcxjL80WVHoTy",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 1632
+		}
+  ]
+}

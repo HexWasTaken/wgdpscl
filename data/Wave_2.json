@@ -1,0 +1,27 @@
+{
+	"id": 293,
+	"name": "Wave 2",
+	"author": "Th3k1ll3r72",
+	"creators": [
+		"Th3k1ll3r72",
+    "Toast"
+	],
+	"verifier": "Xan",
+	"verification": "https://youtu.be/OQAiK0wa-6Y?si=6S0NRjaaWk1O2SCV",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

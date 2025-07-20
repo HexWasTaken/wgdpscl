@@ -1,0 +1,26 @@
+{
+	"id": 2080,
+	"name": "sexy man",
+	"author": "Furrious",
+	"creators": [
+		"Furrious"
+	],
+	"verifier": "Furrious",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Filipogem",
+			"link": "https://www.youtube.com/watch?v=O7r8mrzfchA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

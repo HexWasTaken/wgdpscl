@@ -1,0 +1,20 @@
+{
+	"id": 2081,
+	"name": "MASOCHISM",
+	"author": "Kubix",
+	"creators": [
+		"Skoe"
+	],
+	"verifier": "Skoe",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "swifti",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

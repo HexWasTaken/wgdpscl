@@ -1,0 +1,27 @@
+{
+	"id": 2230,
+	"name": "Spooky Challenge",
+	"author": "Toast",
+	"creators": [
+		"Toast"
+	],
+	"verifier": "Xan",
+	"verification": "https://youtu.be/rdKZj3FUTGw?si=1jwYSqJqmqdAScR2",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+        {
+			    "user": "Hex",
+			    "link": "",
+			    "percent": 100,
+			    "hz": 60
+		    },
+		{
+			    "user": "swifti",
+			    "link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			    "percent": 100,
+			    "hz": 240
+		    }
+	
+  ]
+}

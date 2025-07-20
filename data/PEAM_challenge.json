@@ -1,0 +1,32 @@
+{
+	"id": 2071,
+	"name": "PEAM challenge",
+	"author": "Xan",
+	"creators": [
+		"Xan"
+	],
+	"verifier": "Xan",
+	"verification": "https://youtu.be/Wfs7v6fHL7o?si=_WmRFVm1NWwfGwRy",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "yeeee",
+			"link": "https://youtu.be/SXPceP819eo?si=LRqOKt1DaB4sCZ3w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

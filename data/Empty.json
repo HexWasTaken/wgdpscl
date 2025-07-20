@@ -1,0 +1,26 @@
+{
+	"id": 2274,
+	"name": "Empty",
+	"author": "Hex",
+	"creators": [
+		"Hex"
+	],
+	"verifier": "Hex",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+    {
+			"user": "Kubix",
+			"link": "",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

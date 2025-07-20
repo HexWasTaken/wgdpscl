@@ -1,0 +1,38 @@
+{
+	"id": 1922,
+	"name": "Samuel Never Clear",
+	"author": "Shib",
+	"creators": [
+		"Sam2217"
+	],
+	"verifier": "Shib",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+	        {
+			"user": "Furrious",
+			"link": "https://www.youtube.com/watch?v=flKJuS8Y-vY&ab_channel=Furrious%5BGD%5D",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Kubix",
+			"link": "",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Skoe",
+			"link": "https://youtu.be/bOCV4Ixr2Xs",
+			"percent": 100,
+			"hz": 999
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

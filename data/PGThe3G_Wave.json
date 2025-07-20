@@ -1,0 +1,26 @@
+{
+	"id": 1968,
+	"name": "PGThe3G Wave",
+	"author": "PGThe3G",
+	"creators": [
+		"PGThe3G"
+	],
+	"verifier": "PGThe3G",
+	"verification": "",
+	"percentToQualify": 52,
+	"password": "-",
+	"records": [
+		{
+			"user": "Skoe",
+			"link": "",
+			"percent": 100,
+			"hz": 999
+		},
+		{
+			"user": "swifti",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

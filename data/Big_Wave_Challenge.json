@@ -1,0 +1,32 @@
+{
+	"id": 91,
+	"name": "Big Wave Challenge",
+	"author": "Kultrixx",
+	"creators": [
+		"Kultrixx"
+	],
+	"verifier": "Xan",
+	"verification": "https://youtu.be/qjmpG2Yf2Ig?si=kULCwVrhd7RzcB_E",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

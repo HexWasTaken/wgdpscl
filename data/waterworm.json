@@ -1,0 +1,38 @@
+{
+	"id": 976,
+	"name": "waterworm",
+	"author": "YMasterGD",
+	"creators": [
+		"YMasterGD "
+	],
+	"verifier": "YMasterGD",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Furrious",
+			"link": "https://www.youtube.com/watch?v=KPr2VAfzd0Q&ab_channel=Furrious%5BGD%5D",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Skoe",
+			"link": "",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Shib",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}

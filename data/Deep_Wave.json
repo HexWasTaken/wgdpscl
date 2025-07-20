@@ -1,0 +1,20 @@
+{
+	"id": 2197,
+	"name": "Deep Wave",
+	"author": "Xan",
+	"creators": [
+		"astie"
+	],
+	"verifier": "Xan",
+	"verification": "https://youtu.be/ed1894FRntE?si=CXXNz1AreaUOrFgw",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=2i4UMB4e0js",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}

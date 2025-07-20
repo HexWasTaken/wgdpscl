@@ -1,0 +1,68 @@
+{
+	"id": 2052,
+	"name": "brainrotten",
+	"author": "mart1238",
+	"creators": [
+		"mart1238"
+	],
+	"verifier": "Skoe",
+	"verification": "",
+	"percentToQualify": 100,
+	"password": "-",
+	"records": [
+		{
+			"user": "Furrious",
+			"link": "https://www.youtube.com/watch?v=25cFLgV-KVg&ab_channel=Furrious%5BGD%5D",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Kubix",
+			"link": "",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Random",
+			"link": "https://www.youtube.com/watch?v=poYyDxmjYKo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Mathey",
+			"link": "https://youtu.be/0qqiihRX01Y?si=CvOmv98gqJ3wvUfO",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "yeeee",
+			"link": "https://youtu.be/SXPceP819eo?si=LRqOKt1DaB4sCZ3w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Shib",
+			"link": "https://youtu.be/S2nZklGxPCo?si=2IQEysJJjImLHsEW",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Hex",
+			"link": "",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Filipogem",
+			"link": "https://www.youtube.com/watch?v=8VY3pSoP1V0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "swifti",
+			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
+			"percent": 100,
+			"hz": 240
+		}
+  ]
+}
