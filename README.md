@@ -1,4 +1,4 @@
-# Welcome to WhirlGDPS Demonlist repo!
+# Welcome to WhirlGDPS Challengelist repo!
 
 # Website Disclaimer
 
