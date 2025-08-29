@@ -1,11 +1,11 @@
 {
 	"id": 4016,
 	"name": "The Awesome",
-	"author": "Catty",
+	"author": "swifti",
 	"creators": [
-		"Catty"
+		"swifti"
 	],
-	"verifier": "Catty",
+	"verifier": "swifti",
 	"verification": "https://www.youtube.com/watch?v=-LLJSdSx1fA",
 	"percentToQualify": 100,
 	"password": "-",
