@@ -9,5 +9,12 @@
 	"verification": "https://www.youtube.com/watch?v=r8IYanoXDAQ",
 	"percentToQualify": 100,
 	"password": "-",
-	"records": []
+	"records": [
+		{
+			    "user": "ToxicHQ",
+			    "link": "https://youtu.be/W7Hkvm_gmgo?si=9tO4h53iCWB2VI0b",
+			    "percent": 100,
+			    "hz": 75
+		}
+	]
 }
