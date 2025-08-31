@@ -15,6 +15,12 @@
 			"link": "https://www.youtube.com/watch?v=x5oxRXLFavM",
 			"percent": 100,
 			"hz": 1632
+		},
+		{
+			    "user": "ToxicHQ",
+			    "link": "https://www.youtube.com/watch?v=m7lY3alqiIU&t=16s",
+			    "percent": 100,
+			    "hz": 75
 		}
   ]
 }
