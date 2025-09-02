@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/x1THE7cAaUA",
     "percentToQualify": "100",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+			    "user": "Hex",
+			    "link": "https://medal.tv/games/geometry-dash/clips/l1qLxKq4AR9OxH02Z?invite=cr-MSw0ZDAsMjg4ODg0Mjk3&v=41",
+			    "percent": 100,
+			    "hz": 480
+		}
+    ]
 }
