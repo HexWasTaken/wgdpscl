@@ -12,8 +12,10 @@ const benchmarker = "_";
 
 export async function fetchList() {
     const listResult = await fetch(`${dir}/_list.json`);
+    const packResult = await fetch(`${dir}/_packlist.json`);
     try {
         const list = await listResult.json();
+        const packsList = await packResult.json();
 
         // Create a lookup dictionary for ranks
         const ranksEntries = list
@@ -65,9 +67,16 @@ export async function fetchEditors() {
 
 export async function fetchLeaderboard() {
     const list = await fetchList();
-
+    const packResult = await (await fetch(`${dir}/_packlist.json`)).json();
     const scoreMap = {};
     const errs = [];
+    const packMultiplier = 1.5;
+    const scoreLookup = calculateScores(list.length)
+    list.forEach(([level, err], rank) => {
+        if (err) {
+            errs.push(err);
+            return;
+        }
     
     // Fetch country data
     let countryData = {};
